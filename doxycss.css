@@ -1,0 +1,19 @@
+body {
+  background-color: #E1B2F1;
+}
+div.header {
+  background-color: #CF75ED;
+  background-image: none;
+}
+.directory tr.even {
+  background-color: #ab64c0;
+}
+div.fragment {
+  background-color: #520355;
+}
+.mdescLeft, .mdescRight, .memItemLeft, .memItemRight, .memTemplItemLeft, .memTemplItemRight, .memTemplParams {
+  background-color: #b07fc7;
+}
+.memdoc, dl.reflist dd {
+  background-color: #be7fc7;
+}
